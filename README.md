@@ -60,13 +60,16 @@ Built a complete observability stack on Minikube to demonstrate real-world monit
 ## Screenshots
 
 ### Kubernetes Infrastructure View
-![Kubernetes Infrastructure](screenshots/01-kubernetes-infrastructure.jpg)
+![Kubernetes Infrastructure](screenshots/kubernetes.jpg)
 
 ### Container Metrics
-![Container Metrics](screenshots/03-container-metrics.jpg)
+![Container Metrics](screenshots/containers.jpg)
+
+### Container Metrics
+![Container Metrics](screenshots/kubectl-resources.jpg)
 
 ### Datadog Agent Running
-![Datadog Agent](screenshots/05-datadog-agent-running.jpg)
+![Datadog Agent](screenshots/datadog-agent-running.jpg)
 
 ## How to Reproduce
 
